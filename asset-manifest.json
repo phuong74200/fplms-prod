@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22de43e2.css",
+    "main.js": "/static/js/main.cdc06321.js",
+    "static/js/787.6cd441f4.chunk.js": "/static/js/787.6cd441f4.chunk.js",
+    "static/media/image 1.png": "/static/media/image 1.2fb275eb5fe06483690b.png",
+    "static/media/image 3.png": "/static/media/image 3.a023591a09a5355f7445.png",
+    "static/media/FPLMS.png": "/static/media/FPLMS.8524c0c9a3cfac22ae82.png",
+    "static/media/image 2.png": "/static/media/image 2.25aeefe46e6e15ea6394.png",
+    "static/media/Asset 1.png": "/static/media/Asset 1.265b2615e580b51aab3f.png",
+    "static/media/fpt logo 1.jpg": "/static/media/fpt logo 1.ee9ac97e86dc57fcd201.jpg",
+    "static/media/EmptyState.svg": "/static/media/EmptyState.f2f54807def4a583fe765405c0dc7603.svg",
+    "index.html": "/index.html",
+    "main.22de43e2.css.map": "/static/css/main.22de43e2.css.map",
+    "main.cdc06321.js.map": "/static/js/main.cdc06321.js.map",
+    "787.6cd441f4.chunk.js.map": "/static/js/787.6cd441f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22de43e2.css",
+    "static/js/main.cdc06321.js"
+  ]
+}
